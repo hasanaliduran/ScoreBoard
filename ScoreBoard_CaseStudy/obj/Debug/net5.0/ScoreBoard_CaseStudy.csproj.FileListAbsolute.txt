@@ -1,0 +1,12 @@
+/Users/hasanaliduran/Projects/ScoreBoard_CaseStudy/ScoreBoard_CaseStudy/bin/Debug/net5.0/ScoreBoard_CaseStudy.deps.json
+/Users/hasanaliduran/Projects/ScoreBoard_CaseStudy/ScoreBoard_CaseStudy/bin/Debug/net5.0/ScoreBoard_CaseStudy.dll
+/Users/hasanaliduran/Projects/ScoreBoard_CaseStudy/ScoreBoard_CaseStudy/bin/Debug/net5.0/ref/ScoreBoard_CaseStudy.dll
+/Users/hasanaliduran/Projects/ScoreBoard_CaseStudy/ScoreBoard_CaseStudy/bin/Debug/net5.0/ScoreBoard_CaseStudy.pdb
+/Users/hasanaliduran/Projects/ScoreBoard_CaseStudy/ScoreBoard_CaseStudy/obj/Debug/net5.0/ScoreBoard_CaseStudy.csproj.AssemblyReference.cache
+/Users/hasanaliduran/Projects/ScoreBoard_CaseStudy/ScoreBoard_CaseStudy/obj/Debug/net5.0/ScoreBoard_CaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasanaliduran/Projects/ScoreBoard_CaseStudy/ScoreBoard_CaseStudy/obj/Debug/net5.0/ScoreBoard_CaseStudy.AssemblyInfoInputs.cache
+/Users/hasanaliduran/Projects/ScoreBoard_CaseStudy/ScoreBoard_CaseStudy/obj/Debug/net5.0/ScoreBoard_CaseStudy.AssemblyInfo.cs
+/Users/hasanaliduran/Projects/ScoreBoard_CaseStudy/ScoreBoard_CaseStudy/obj/Debug/net5.0/ScoreBoard_CaseStudy.csproj.CoreCompileInputs.cache
+/Users/hasanaliduran/Projects/ScoreBoard_CaseStudy/ScoreBoard_CaseStudy/obj/Debug/net5.0/ScoreBoard_CaseStudy.dll
+/Users/hasanaliduran/Projects/ScoreBoard_CaseStudy/ScoreBoard_CaseStudy/obj/Debug/net5.0/ref/ScoreBoard_CaseStudy.dll
+/Users/hasanaliduran/Projects/ScoreBoard_CaseStudy/ScoreBoard_CaseStudy/obj/Debug/net5.0/ScoreBoard_CaseStudy.pdb
